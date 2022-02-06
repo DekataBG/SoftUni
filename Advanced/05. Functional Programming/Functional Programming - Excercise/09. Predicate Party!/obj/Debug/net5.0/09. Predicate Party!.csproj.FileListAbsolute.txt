@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\ref\09. Predicate Party!.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\bin\Debug\net5.0\09. Predicate Party!.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\ref\09. Predicate Party!.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\09. Predicate Party!\obj\Debug\net5.0\09. Predicate Party!.genruntimeconfig.cache

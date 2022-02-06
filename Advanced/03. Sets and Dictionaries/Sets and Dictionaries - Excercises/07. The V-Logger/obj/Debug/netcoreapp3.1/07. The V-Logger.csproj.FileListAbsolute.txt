@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.genruntimeconfig.cache

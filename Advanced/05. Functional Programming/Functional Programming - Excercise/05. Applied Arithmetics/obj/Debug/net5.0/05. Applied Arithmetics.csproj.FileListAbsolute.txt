@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\ref\05. Applied Arithmetics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\bin\Debug\net5.0\05. Applied Arithmetics.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\ref\05. Applied Arithmetics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\Functional Programming - Excercise\Functional Programming - Excercise\05. Applied Arithmetics\obj\Debug\net5.0\05. Applied Arithmetics.genruntimeconfig.cache
