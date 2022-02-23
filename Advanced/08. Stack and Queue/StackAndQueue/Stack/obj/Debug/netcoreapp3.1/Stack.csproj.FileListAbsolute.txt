@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\08. Stack and Queue\StackAndQueue\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\bin\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\06. Wardrobe\obj\Debug\netcoreapp3.1\06. Wardrobe.genruntimeconfig.cache

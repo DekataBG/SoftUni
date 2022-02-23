@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\bin\Debug\netcoreapp3.1\10. ForceBook.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\10. ForceBook\obj\Debug\netcoreapp3.1\10. ForceBook.genruntimeconfig.cache

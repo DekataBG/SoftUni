@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp3.1\05. Date Modifier.genruntimeconfig.cache

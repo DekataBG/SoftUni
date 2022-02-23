@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\bin\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\08. Car Salesman\obj\Debug\netcoreapp3.1\08. Car Salesman.genruntimeconfig.cache

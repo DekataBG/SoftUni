@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\06. Defining Classes - Exercise\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.genruntimeconfig.cache

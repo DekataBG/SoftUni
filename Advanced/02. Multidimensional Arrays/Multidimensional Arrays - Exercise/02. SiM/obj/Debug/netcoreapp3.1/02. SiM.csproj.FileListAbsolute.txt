@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\bin\Debug\netcoreapp3.1\02. SiM.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\02. Multidimensional Arrays\Multidimensional Arrays - Exercise\02. SiM\obj\Debug\netcoreapp3.1\02. SiM.genruntimeconfig.cache

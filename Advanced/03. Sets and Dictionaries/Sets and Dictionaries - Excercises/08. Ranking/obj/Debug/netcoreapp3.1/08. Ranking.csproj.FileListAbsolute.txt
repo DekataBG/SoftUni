@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\03. Sets and Dictionaries\Sets and Dictionaries - Excercises\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.genruntimeconfig.cache
