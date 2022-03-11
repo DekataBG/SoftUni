@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\bin\Debug\netcoreapp3.1\P05.Restaurant.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P05.Restaurant\obj\Debug\netcoreapp3.1\P05.Restaurant.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\ref\P01.ClassBoxData.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\bin\Debug\net5.0\P01.ClassBoxData.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\ref\P01.ClassBoxData.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P01.ClassBoxData\obj\Debug\net5.0\P01.ClassBoxData.genruntimeconfig.cache

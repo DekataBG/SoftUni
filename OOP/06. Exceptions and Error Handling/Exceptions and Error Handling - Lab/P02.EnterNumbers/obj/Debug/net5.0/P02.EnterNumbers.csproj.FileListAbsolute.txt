@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\ref\P02.EnterNumbers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\bin\Debug\net5.0\P02.EnterNumbers.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\ref\P02.EnterNumbers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P02.EnterNumbers\obj\Debug\net5.0\P02.EnterNumbers.genruntimeconfig.cache

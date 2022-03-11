@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\P08.CollectionHierarchy.genruntimeconfig.cache

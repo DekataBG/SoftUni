@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Advanced\09. Generics\Generics - Exercise\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\bin\Debug\netcoreapp3.1\P07.MilitaryElite.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P07.MilitaryElite\obj\Debug\netcoreapp3.1\P07.MilitaryElite.genruntimeconfig.cache

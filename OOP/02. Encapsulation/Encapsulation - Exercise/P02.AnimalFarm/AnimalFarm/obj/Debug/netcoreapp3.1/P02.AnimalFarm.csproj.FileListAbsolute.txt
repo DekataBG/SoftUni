@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\P02.AnimalFarm.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P02.AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\P02.AnimalFarm.genruntimeconfig.cache

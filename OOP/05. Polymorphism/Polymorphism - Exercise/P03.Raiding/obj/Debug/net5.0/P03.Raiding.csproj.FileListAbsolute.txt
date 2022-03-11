@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\ref\P03.Raiding.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\bin\Debug\net5.0\P03.Raiding.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\ref\P03.Raiding.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P03.Raiding\obj\Debug\net5.0\P03.Raiding.genruntimeconfig.cache

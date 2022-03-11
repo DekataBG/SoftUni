@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\ref\P01.Vehicles.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\bin\Debug\net5.0\P01.Vehicles.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\ref\P01.Vehicles.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P01.Vehicles\obj\Debug\net5.0\P01.Vehicles.genruntimeconfig.cache

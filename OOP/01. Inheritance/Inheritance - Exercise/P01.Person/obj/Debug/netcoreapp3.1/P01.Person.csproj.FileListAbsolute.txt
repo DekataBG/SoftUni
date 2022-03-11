@@ -1,0 +1,14 @@
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.exe
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.deps.json
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.runtimeconfig.json
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.runtimeconfig.dev.json
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.dll
+C:\Users\bgsga\Downloads\Person\bin\Debug\netcoreapp3.1\P01.Person.pdb
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.csproj.AssemblyReference.cache
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.AssemblyInfoInputs.cache
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.AssemblyInfo.cs
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.dll
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.pdb
+C:\Users\bgsga\Downloads\Person\obj\Debug\netcoreapp3.1\P01.Person.genruntimeconfig.cache

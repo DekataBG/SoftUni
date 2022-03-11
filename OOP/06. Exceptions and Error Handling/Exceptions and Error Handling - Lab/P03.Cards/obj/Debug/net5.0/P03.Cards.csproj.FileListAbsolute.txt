@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\ref\P03.Cards.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\bin\Debug\net5.0\P03.Cards.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\ref\P03.Cards.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P03.Cards\obj\Debug\net5.0\P03.Cards.genruntimeconfig.cache

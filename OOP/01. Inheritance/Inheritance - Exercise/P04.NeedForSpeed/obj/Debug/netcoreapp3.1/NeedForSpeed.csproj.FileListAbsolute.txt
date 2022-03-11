@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P04.NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\ref\P03.ShoppingSpree.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\bin\Debug\net5.0\P03.ShoppingSpree.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\ref\P03.ShoppingSpree.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P03.ShoppingSpree\obj\Debug\net5.0\P03.ShoppingSpree.genruntimeconfig.cache

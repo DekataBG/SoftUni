@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\bin\Debug\netcoreapp3.1\P03.Telephony.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P03.Telephony\obj\Debug\netcoreapp3.1\P03.Telephony.genruntimeconfig.cache

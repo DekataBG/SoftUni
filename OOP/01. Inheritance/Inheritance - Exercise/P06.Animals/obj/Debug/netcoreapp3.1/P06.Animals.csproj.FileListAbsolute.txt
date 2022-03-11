@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\bin\Debug\netcoreapp3.1\P06.Animals.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\01. Inheritance\Inheritance - Exercise\P06.Animals\obj\Debug\netcoreapp3.1\P06.Animals.genruntimeconfig.cache

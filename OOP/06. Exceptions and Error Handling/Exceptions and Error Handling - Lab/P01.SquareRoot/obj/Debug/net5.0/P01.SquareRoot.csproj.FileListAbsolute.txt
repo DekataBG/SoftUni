@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\ref\P01.SquareRoot.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\bin\Debug\net5.0\P01.SquareRoot.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\ref\P01.SquareRoot.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P01.SquareRoot\obj\Debug\net5.0\P01.SquareRoot.genruntimeconfig.cache

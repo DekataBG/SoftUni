@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\ref\P04.WildFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\bin\Debug\net5.0\P04.WildFarm.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\ref\P04.WildFarm.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\05. Polymorphism\Polymorphism - Exercise\P04.WildFarm\obj\Debug\net5.0\P04.WildFarm.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\ref\P04.PizzaCalories.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\bin\Debug\net5.0\P04.PizzaCalories.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\ref\P04.PizzaCalories.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P04.PizzaCalories\obj\Debug\net5.0\P04.PizzaCalories.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\bin\Debug\netcoreapp3.1\P09.ExplicitInterfaces.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\03. Abstraction\Interfaces and Abstraction - Exercise\P09.ExplicitInterfaces\obj\Debug\netcoreapp3.1\P09.ExplicitInterfaces.genruntimeconfig.cache

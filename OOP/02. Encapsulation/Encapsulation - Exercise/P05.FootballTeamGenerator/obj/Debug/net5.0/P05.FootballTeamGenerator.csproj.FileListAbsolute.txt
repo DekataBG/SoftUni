@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\ref\P05.FootballTeamGenerator.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\bin\Debug\net5.0\P05.FootballTeamGenerator.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\ref\P05.FootballTeamGenerator.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\02. Encapsulation\Encapsulation - Exercise\P05.FootballTeamGenerator\obj\Debug\net5.0\P05.FootballTeamGenerator.genruntimeconfig.cache

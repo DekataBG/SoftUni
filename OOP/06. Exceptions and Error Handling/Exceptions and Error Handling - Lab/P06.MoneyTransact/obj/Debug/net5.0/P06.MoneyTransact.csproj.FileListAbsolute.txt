@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\ref\P06.MoneyTransact.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\bin\Debug\net5.0\P06.MoneyTransact.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\ref\P06.MoneyTransact.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P06.MoneyTransact\obj\Debug\net5.0\P06.MoneyTransact.genruntimeconfig.cache

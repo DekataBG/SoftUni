@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\ref\P04.SumOfIntegers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\bin\Debug\net5.0\P04.SumOfIntegers.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\ref\P04.SumOfIntegers.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\06. Exceptions and Error Handling\Exceptions and Error Handling - Lab\P04.SumOfIntegers\obj\Debug\net5.0\P04.SumOfIntegers.genruntimeconfig.cache
