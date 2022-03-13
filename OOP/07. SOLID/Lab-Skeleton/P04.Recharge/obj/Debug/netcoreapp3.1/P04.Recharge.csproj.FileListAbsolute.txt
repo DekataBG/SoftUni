@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\07. SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache

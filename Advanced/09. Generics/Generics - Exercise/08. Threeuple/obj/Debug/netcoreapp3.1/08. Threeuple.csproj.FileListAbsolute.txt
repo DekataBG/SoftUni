@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.exe
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.deps.json
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.runtimeconfig.json
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.dll
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\bin\Debug\netcoreapp3.1\08. Threeuple.pdb
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.AssemblyInfo.cs
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.dll
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.pdb
+C:\Users\DELL\Desktop\random\programming\SoftUni\Advanced\09. Generics\Generics - Exercise\08. Threeuple\obj\Debug\netcoreapp3.1\08. Threeuple.genruntimeconfig.cache

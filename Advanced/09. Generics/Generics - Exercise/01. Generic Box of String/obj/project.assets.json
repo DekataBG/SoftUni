@@ -8,11 +8,18 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\bgsga\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+>>>>>>> 3a7e7de65173b2e497fa9c76a2f3d311452c0991
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Advanced\\09. Generics\\Generics - Exercise\\01. Generic Box of String\\01. Generic Box of String.csproj",
       "projectName": "01. Generic Box of String",
       "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Advanced\\09. Generics\\Generics - Exercise\\01. Generic Box of String\\01. Generic Box of String.csproj",
@@ -22,12 +29,33 @@
       "configFilePaths": [
         "C:\\Users\\bgsga\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\random\\programming\\SoftUni\\Advanced\\09. Generics\\Generics - Exercise\\01. Generic Box of String\\01. Generic Box of String.csproj",
+      "projectName": "01. Generic Box of String",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\random\\programming\\SoftUni\\Advanced\\09. Generics\\Generics - Exercise\\01. Generic Box of String\\01. Generic Box of String.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\random\\programming\\SoftUni\\Advanced\\09. Generics\\Generics - Exercise\\01. Generic Box of String\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+>>>>>>> 3a7e7de65173b2e497fa9c76a2f3d311452c0991
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+        "C:\\Users\\DELL\\Downloads": {},
+>>>>>>> 3a7e7de65173b2e497fa9c76a2f3d311452c0991
         "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
