@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\bin\Debug\netcoreapp3.1\P04.Collector.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P04.Collector\obj\Debug\netcoreapp3.1\P04.Collector.genruntimeconfig.cache

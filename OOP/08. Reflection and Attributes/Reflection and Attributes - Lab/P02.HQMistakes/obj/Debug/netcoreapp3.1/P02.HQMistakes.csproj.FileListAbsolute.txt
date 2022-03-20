@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\bin\Debug\netcoreapp3.1\P02.HQMistakes.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P02.HQMistakes\obj\Debug\netcoreapp3.1\P02.HQMistakes.genruntimeconfig.cache
