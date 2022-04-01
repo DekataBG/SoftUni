@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\bin\Debug\netcoreapp3.1\P03.MissionPrivate.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Reflection and Attributes\Reflection and Attributes - Lab\P03.MissionPrivate\obj\Debug\netcoreapp3.1\P03.MissionPrivate.genruntimeconfig.cache
