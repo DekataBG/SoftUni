@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

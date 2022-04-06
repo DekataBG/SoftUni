@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
