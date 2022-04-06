@@ -8,3 +8,13 @@ C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Ex
 C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
 C:\Users\DELL\Desktop\programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\OOP\08. Unit Testing\Unit Testing - Exercises\Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
