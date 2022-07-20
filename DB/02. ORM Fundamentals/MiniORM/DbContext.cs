@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Reflection;
@@ -118,12 +119,51 @@ namespace MiniORM
         private void PopulateDbSet<TEntity>(PropertyInfo dbSet)
             where TEntity : class, new()
         {
+            var entities = LoadTableEntities<TEntity>();
 
+            var dbSetInstance = new DbSet<TEntity>(entities);
+            ReflectionHelper.ReplaceBackingField(this, dbSet.Name, dbSetInstance);
         }
 
-        private string GetTableName(Type type)
+        private IEnumerable<TEntity> LoadTableEntities<TEntity>() 
+            where TEntity : class, new()
         {
-            throw new NotImplementedException();
+            var table = typeof(TEntity);
+            var tableName = GetTableName(table);
+
+            var columns = GetEntityColumnNames(table);
+
+            var fetchedRows = connection.FetchResultSet<TEntity>(tableName, columns).ToArray();
+
+            return fetchedRows;
+        }
+
+        private string[] GetEntityColumnNames(Type table)
+        {
+            var tableName = GetTableName(table);
+
+            var dbColums = connection.FetchColumnNames(tableName);
+
+            var columns = table.GetProperties()
+                    .Where(p => dbColums.Contains(p.Name) &&
+                    !p.HasAttribute<NotMappedAttribute>() &&
+                    AllowedSqlTypes.Contains(p.PropertyType))
+                    .Select(p => p.Name)
+                    .ToArray();
+
+            return columns;
+        }
+
+        private string GetTableName(Type tableType)
+        {
+            var tableName = ((TableAttribute)Attribute.GetCustomAttribute(tableType, typeof(TableAttribute)))?.Name;
+
+            if (tableName == null)
+            {
+                tableName = dbSetProperties[tableType].Name;
+            }
+
+            return tableName;
         }
 
         private bool IsObjectValid(object e)
@@ -155,7 +195,11 @@ namespace MiniORM
 
         private Dictionary<Type, PropertyInfo> DiscoverDbSets()
         {
-            throw new NotImplementedException();
+            var dbSets = GetType().GetProperties()
+                .Where(p => p.PropertyType.GetGenericTypeDefinition() == typeof(DbSet<>))
+                .ToDictionary(p => p.PropertyType.GetGenericArguments().First(), p => p);
+
+            return dbSets;
         }
     }
 }
