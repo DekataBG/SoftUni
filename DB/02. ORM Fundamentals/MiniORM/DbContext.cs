@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.SqlClient;
 using System.Linq;
@@ -168,12 +169,127 @@ namespace MiniORM
 
         private bool IsObjectValid(object e)
         {
-            throw new NotImplementedException();
+            var validationContext = new ValidationContext(e);
+            var validationErrors = new List<ValidationResult>();
+
+            var validationResult =
+                Validator.TryValidateObject(e, validationContext, validationErrors, true);
+
+            return validationResult;
+
         }
 
         private void MapAllRelations()
         {
-            throw new NotImplementedException();
+            foreach (var dbSetProperty in dbSetProperties)
+            {
+                var dbSetType = dbSetProperty.Key;
+
+                var mapRelationsGeneric = typeof(DbContext)
+                    .GetMethod("MakeRelations", BindingFlags.Instance | BindingFlags.NonPublic)
+                    .MakeGenericMethod(dbSetType);
+
+                var dbSet = dbSetProperty.Value.GetValue(this);
+
+                mapRelationsGeneric.Invoke(this, new[] { dbSet });
+            }
+        }
+
+        private void MapRelations<TEntity>(DbSet<TEntity> dbSet)
+            where TEntity : class, new()
+        {
+            var entityType = typeof(TEntity);
+
+            MapNavigationProperties(dbSet);
+
+            var collections = entityType.GetProperties()
+                .Where(p => p.PropertyType.IsGenericType
+                && p.PropertyType.GetGenericTypeDefinition() == typeof(ICollection<>))
+                .ToArray();
+
+            foreach (var collection in collections)
+            {
+                var collectionType = collection.PropertyType.GenericTypeArguments.First();
+
+                var mapCollectionMethod = typeof(DbContext)
+                    .GetMethod("MapCollection", BindingFlags.Instance | BindingFlags.NonPublic)
+                    .MakeGenericMethod(entityType, collectionType);
+
+                mapCollectionMethod.Invoke(this, new object[] { dbSet, collection });
+            }
+        }
+
+        private void MapCollection<TDbSet, TCollection>(DbSet<TDbSet> dbSet, PropertyInfo collectionProperty)
+            where TDbSet : class, new()
+            where TCollection : class, new()
+        {
+            var entityType = typeof(TDbSet);
+            var collectionType = typeof(TCollection);
+
+            var primaryKeys = collectionType.GetProperties()
+                .Where(p => p.HasAttribute<KeyAttribute>())
+                .ToArray();
+
+            var primaryKey = primaryKeys.First();
+
+            var foreignKey = entityType.GetProperties()
+                .First(p => p.HasAttribute<KeyAttribute>());
+
+            var isManyToMany = primaryKeys.Length >= 2;
+
+            if(isManyToMany)
+            {
+                primaryKey = collectionType.GetProperties()
+                    .First(p => collectionType.GetProperty(p.GetCustomAttribute<ForeignKeyAttribute>().Name)
+                        .PropertyType == entityType);
+            }
+
+            var navigationDbSet = (DbSet<TCollection>)dbSetProperties[collectionType].GetValue(this);
+
+            foreach (var entity in dbSet)
+            {
+                var primaryKeyValue = foreignKey.GetValue(entity);
+
+                var navigationEntities = navigationDbSet
+                    .Where(navigationEntity => primaryKey.GetValue(navigationEntity).Equals(primaryKeyValue))
+                    .ToArray();
+
+                ReflectionHelper.ReplaceBackingField(entity, collectionProperty.Name, navigationEntities);
+            }
+        }
+
+        private void MapNavigationProperties<TEntity>(DbSet<TEntity> dbSet) 
+            where TEntity : class, new()
+        {
+            var entityType = typeof(TEntity);
+
+            var foreignKeys = entityType.GetProperties()
+                .Where(p => p.HasAttribute<KeyAttribute>())
+                .ToArray();
+
+            foreach (var foreignKey in foreignKeys)
+            {
+                var navigationPropertyName =
+                    foreignKey.GetCustomAttribute<ForeignKeyAttribute>().Name;
+
+                var navigationProperty = entityType.GetProperty(navigationPropertyName);
+
+                var navigationDbSet = dbSetProperties[navigationProperty.PropertyType].GetValue(this);
+
+                var navigationPrimaryKey = navigationProperty.PropertyType.GetProperties()
+                    .First(p => p.HasAttribute<KeyAttribute>());
+
+                foreach (var entity in dbSet)
+                {
+                    var foreignKeyValue = foreignKey.GetValue(entity);
+
+                    var navigationPropertyValue = ((IEnumerable<object>)navigationDbSet)
+                        .First(currentNavigationProperty
+                            => navigationPrimaryKey.GetValue(currentNavigationProperty).Equals(foreignKeyValue));
+
+                    navigationProperty.SetValue(entity, navigationPropertyValue);
+                }
+            }
         }
 
         private void InitialiseDbSets()
