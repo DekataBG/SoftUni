@@ -44,3 +44,6 @@ C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03
 C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp3.1\SoftUni.dll
 C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp3.1\SoftUni.pdb
 C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\obj\Debug\netcoreapp3.1\SoftUni.genruntimeconfig.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\03. Entity Framework Introduction\SoftUni\SoftUni\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
