@@ -24,11 +24,11 @@ namespace P01_StudentSystem.Data.Models
         public decimal Price { get; set; }
 
         public virtual ICollection<Resource> Resources { get; set; }
+        public virtual ICollection<Homework> Homeworks { get; set; }
+        public virtual ICollection<StudentCourse> StudentCourses { get; set; }
 
         [NotMapped]
-        public virtual ICollection<Homework> Homeworks { get; set; }
         public virtual ICollection<Homework> HomeworkSubmissions { get; set; }
-        public virtual ICollection<StudentCourse> StudentCourses { get; set; }
 
         [NotMapped]
         public virtual ICollection<StudentCourse> StudentsEnrolled { get; set; }

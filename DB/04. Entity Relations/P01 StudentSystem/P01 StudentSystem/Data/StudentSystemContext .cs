@@ -38,7 +38,6 @@ namespace P01_StudentSystem.Data
             modelBuilder.ApplyConfiguration(new StudentConfiguration());
             modelBuilder.ApplyConfiguration(new CourseConfiguration());
             modelBuilder.ApplyConfiguration(new ResourceConfiguration());
-            modelBuilder.ApplyConfiguration(new HomeworkConfiguration());
             modelBuilder.ApplyConfiguration(new StudentCourseConfiguration());
 
             base.OnModelCreating(modelBuilder);

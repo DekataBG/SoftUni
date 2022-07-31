@@ -176,14 +176,13 @@ namespace SoftUni
         public static string GetDepartmentsWithMoreThan5Employees(SoftUniContext context)
         {
             var stringBuilder = new StringBuilder();
-
+            
             var departments = context.Departments
                 .Where(d => d.Employees.Count > 5)
                 .OrderBy(d => d.Employees.Count)
                 .ThenBy(d => d.Name)
                 .Select(d => new
                 {
-                    Count = d.Employees.Count,
                     DepartmentName = d.Name,
                     ManagerFirstName = d.Manager.FirstName,
                     ManagerLastName = d.Manager.LastName,
@@ -191,7 +190,8 @@ namespace SoftUni
                     .OrderBy(e => e.FirstName)
                     .ThenBy(e => e.LastName)
                     .Select(e => new { e.FirstName, e.LastName, e.JobTitle })
-                });
+                    .ToList()
+                }).ToList();
 
 
             foreach (var department in departments)
