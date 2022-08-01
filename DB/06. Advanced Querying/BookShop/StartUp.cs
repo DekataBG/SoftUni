@@ -17,7 +17,7 @@
             using var db = new BookShopContext();
             DbInitializer.ResetDatabase(db);
 
-            Console.WriteLine(GetBooksReleasedBefore(db, Console.ReadLine()));
+            Console.WriteLine(RemoveBooks(db));
         }
 
         public static string GetBooksByAgeRestriction(BookShopContext context, string command)
@@ -136,16 +136,156 @@
         {
             var stringBuilder = new StringBuilder();
 
-            var books = context.Books.ToList()
-                .Where(b => b)
-                .OrderBy(b => b);
+            var authors = context.Authors.ToList()
+                .Where(a => a.FirstName.EndsWith(input))
+                .OrderBy(a => a.FirstName)
+                .ThenBy(a => a.LastName);
 
-            foreach (var book in books)
+            foreach (var author in authors)
             {
-                stringBuilder.AppendLine($"{}");
+                stringBuilder.AppendLine($"{author.FirstName} {author.LastName}");
             }
 
             return stringBuilder.ToString();
+        }
+
+        public static string GetBookTitlesContaining(BookShopContext context, string input)
+        {
+            var stringBuilder = new StringBuilder();
+
+            var books = context.Books.ToList()
+                .Where(b => b.Title.ToLower().Contains(input.ToLower()))
+                .OrderBy(b => b.Title);
+            
+            foreach (var book in books)
+            {
+                stringBuilder.AppendLine($"{book.Title}");
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public static string GetBooksByAuthor(BookShopContext context, string input)
+        {
+            var stringBuilder = new StringBuilder();
+
+            var books = context.Books
+                .Where(b => b.Author.LastName.ToLower().StartsWith(input.ToLower()))
+                .Select(b => new { b.Title, b.Author.FirstName, b.Author.LastName, b.BookId })
+                .OrderBy(b => b.BookId);
+
+            foreach (var book in books)
+            {
+                stringBuilder.AppendLine($"{book.Title} ({book.FirstName} {book.LastName})");
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public static int CountBooks(BookShopContext context, int lengthCheck)
+        {
+            var books = context.Books
+                .Where(b => b.Title.Length > lengthCheck);
+
+            return books.Count();
+        }
+
+        public static string CountCopiesByAuthor(BookShopContext context)
+        {
+            var stringBuilder = new StringBuilder();
+
+            var authors = context.Authors
+                .Select(a => new
+                {
+                    a.FirstName, 
+                    a.LastName, 
+                    Copies = a.Books.Sum(b => b.Copies)
+                })
+                .OrderByDescending(a => a.Copies);
+
+            foreach (var author in authors)
+            {
+                stringBuilder.AppendLine($"{author.FirstName} {author.LastName} - {author.Copies}");
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public static string GetTotalProfitByCategory(BookShopContext context)
+        {
+            var stringBuilder = new StringBuilder();
+
+            var categories = context.Categories
+                .Select(c => new
+                {
+                    c.Name,
+                    Profit = c.CategoryBooks.Select(cb => cb.Book).Sum(b => b.Price * b.Copies)
+
+                })
+                .OrderByDescending(c => c.Profit);
+                
+
+            foreach (var category in categories)
+            {
+                stringBuilder.AppendLine($"{category.Name} ${category.Profit:f2}");
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public static string GetMostRecentBooks(BookShopContext context)
+        {
+            var stringBuilder = new StringBuilder();
+
+            var categories = context.Categories
+                .Select(c => new
+                {
+                    c.Name,
+                    Books = c.CategoryBooks.Select(cb => cb.Book).OrderByDescending(b => b.ReleaseDate).Take(3).ToList()
+
+                })
+                .OrderBy(c => c.Name)
+                .ToList();
+
+
+            foreach (var category in categories)
+            {
+                stringBuilder.AppendLine($"--{category.Name}");
+
+                foreach (var book in category.Books)
+                {
+                    stringBuilder.AppendLine($"{book.Title} ({book.ReleaseDate.Value.Year})");
+                }
+            }
+
+            return stringBuilder.ToString();
+        }
+
+        public static void IncreasePrices(BookShopContext context)
+        {
+            var books = context.Books
+                .Where(b => b.ReleaseDate.Value.Year < 2010);
+
+            foreach (var book in books)
+            {
+                book.Price += 5;
+                context.Books.Update(book);
+            }
+
+            context.SaveChanges();
+        }
+
+        public static int RemoveBooks(BookShopContext context)
+        {
+            var books = context.Books
+                .Where(b => b.Copies < 4200);
+
+            var booksCount = books.Count();
+
+            context.Books.RemoveRange(books);
+            context.SaveChanges();
+
+            return booksCount;
         }
     }
 }
