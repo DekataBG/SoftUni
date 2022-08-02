@@ -1,0 +1,16 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.csproj.CopyComplete
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\07. C# Auto Mapping Objects\FastFood.Data\obj\Debug\netcoreapp2.1\FastFood.Data.genruntimeconfig.cache
