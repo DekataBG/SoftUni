@@ -1,0 +1,13 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\DB\08. JavaScript Object Notation - JSON\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache

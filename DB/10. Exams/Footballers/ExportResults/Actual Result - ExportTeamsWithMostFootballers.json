@@ -1,0 +1,76 @@
+[
+  {
+    "Name": "Juventus F.C.",
+    "Footballers": [
+      {
+        "FootballerName": "Lorenzo Pellegrini",
+        "ContractStartDate": "2021-01-30T00:12:00",
+        "ContractEndDate": "2024-01-17T00:06:00",
+        "BestSkillType": 2,
+        "PositionType": 2
+      },
+      {
+        "FootballerName": "Martin Terrier",
+        "ContractStartDate": "2021-01-29T00:12:00",
+        "ContractEndDate": "2024-01-16T00:06:00",
+        "BestSkillType": 2,
+        "PositionType": 3
+      }
+    ]
+  },
+  {
+    "Name": "Liverpool F.C.",
+    "Footballers": [
+      {
+        "FootballerName": "Alisson",
+        "ContractStartDate": "2022-01-01T00:01:00",
+        "ContractEndDate": "2026-01-28T00:08:00",
+        "BestSkillType": 0,
+        "PositionType": 0
+      },
+      {
+        "FootballerName": "Andrew Robertson",
+        "ContractStartDate": "2021-01-13T00:06:00",
+        "ContractEndDate": "2023-01-30T00:11:00",
+        "BestSkillType": 2,
+        "PositionType": 1
+      }
+    ]
+  },
+  {
+    "Name": "Angers SCO",
+    "Footballers": [
+      {
+        "FootballerName": "Ederson",
+        "ContractStartDate": "2021-01-14T00:06:00",
+        "ContractEndDate": "2024-01-26T00:09:00",
+        "BestSkillType": 0,
+        "PositionType": 0
+      }
+    ]
+  },
+  {
+    "Name": "AS Monaco",
+    "Footballers": [
+      {
+        "FootballerName": "Joselu",
+        "ContractStartDate": "2021-01-31T00:12:00",
+        "ContractEndDate": "2025-01-14T00:04:00",
+        "BestSkillType": 3,
+        "PositionType": 3
+      }
+    ]
+  },
+  {
+    "Name": "Atletico de Madrid",
+    "Footballers": [
+      {
+        "FootballerName": "Phil Foden",
+        "ContractStartDate": "2021-01-30T00:12:00",
+        "ContractEndDate": "2025-01-13T00:04:00",
+        "BestSkillType": 1,
+        "PositionType": 2
+      }
+    ]
+  }
+]
