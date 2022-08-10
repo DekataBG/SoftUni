@@ -10,14 +10,14 @@ namespace Footballers.DataProcessor.ExportDto
     [XmlType("Coach")]
     public class CoachExportDto
     {
+        [XmlAttribute("FootballersCount")]
+        public int FootballersCount { get; set; }
+
         [XmlElement("CoachName")]
-        [XmlAttribute("Name")]
         public string CoachName { get; set; }
         
         [XmlArray("Footballers")]
         public FootballerExportDto[] Footballers { get; set; }
-
-        public int Count { get; set; }
     }
 }
 

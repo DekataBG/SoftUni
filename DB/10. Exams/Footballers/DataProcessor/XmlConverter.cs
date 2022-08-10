@@ -10,9 +10,7 @@
 
     public static class XmlConverter
     {
-        public static string Serialize<T>(
-            T dataTransferObjects,
-            string xmlRootAttributeName)
+        public static string Serialize<T>(T dataTransferObjects, string xmlRootAttributeName)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T), new XmlRootAttribute(xmlRootAttributeName));
 
@@ -24,9 +22,7 @@
             return builder.ToString();
         }
 
-        public static string Serialize<T>(
-            T[] dataTransferObjects,
-            string xmlRootAttributeName)
+        public static string Serialize<T>(T[] dataTransferObjects, string xmlRootAttributeName)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T[]), new XmlRootAttribute(xmlRootAttributeName));
 
@@ -38,26 +34,11 @@
             return builder.ToString();
         }
 
-        public static T[] Deserializer<T>(
-            string xmlObjectsAsString,
-            string xmlRootAttributeName)
+        public static T[] Deserializer<T>(string xmlObjectsAsString, string xmlRootAttributeName)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T[]), new XmlRootAttribute(xmlRootAttributeName));
 
             var dataTransferObjects = serializer.Deserialize(new StringReader(xmlObjectsAsString)) as T[];
-
-            return dataTransferObjects;
-        }
-
-        public static T Deserializer<T>(
-            string xmlObjectsAsString,
-            string xmlRootAttributeName,
-            bool isSampleObject)
-            where T : class
-        {
-            XmlSerializer serializer = new XmlSerializer(typeof(T), new XmlRootAttribute(xmlRootAttributeName));
-
-            var dataTransferObjects = serializer.Deserialize(new StringReader(xmlObjectsAsString)) as T;
 
             return dataTransferObjects;
         }

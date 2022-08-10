@@ -2,7 +2,9 @@
 {
     using System;
     using System.Globalization;
+    using System.IO;
     using System.Linq;
+    using System.Xml.Serialization;
     using Data;
     using Footballers.DataProcessor.ExportDto;
     using Newtonsoft.Json;
@@ -12,21 +14,21 @@
     {
         public static string ExportCoachesWithTheirFootballers(FootballersContext context)
         {
-            var coaches = context.Coaches
+            var coaches = context.Coaches.ToArray()
                 .Where(c => c.Footballers.Count > 0)
                 .Select(c => new CoachExportDto
                 {
-                    Count = c.Footballers.Count,
+                    FootballersCount = c.Footballers.Count(),
                     CoachName = c.Name,
                     Footballers = c.Footballers.Select(f => new FootballerExportDto
                     {
                         Name = f.Name,
                         Position = f.PositionType.ToString()
                     }).OrderBy(f => f.Name)
-                    .ToArray()
+                    .ToArray(),
                 })
-                .OrderByDescending(c => c.Count)
-                .ToList();
+                .OrderByDescending(c => c.FootballersCount)
+                .ToArray();
 
 
             var xml = XmlConverter.Serialize(coaches, "Coaches");
@@ -36,20 +38,24 @@
 
         public static string ExportTeamsWithMostFootballers(FootballersContext context, DateTime date)
         {
+            //31/03/2020
+
             var teams = context.Teams
-                .Where(t => t.TeamsFootballers
-                    .Select(tf => tf.Footballer)
-                    .Any(f => f.ContractStartDate >= date))
+                //.Where(t => t.TeamsFootballers
+                    //.Select(tf => tf.Footballer)
+                    //.Any(f => f.ContractStartDate >= date))
                 .Select(t => new
                 {
                     Name = t.Name,
-                    Footballers = t.TeamsFootballers.Select(tf => tf.Footballer).Where(f => f.ContractStartDate >= date)
+                    Footballers = t.TeamsFootballers
+                        .Select(tf => tf.Footballer)
+                        //.Where(f => f.ContractStartDate >= date)
                     .Select(f => new
                     {
                         FootballerName = f.Name,
                         ContractStartDate = f.ContractStartDate,
                         //ContractEndDate = DateTime.ParseExact(f.ContractEndDate.ToString(), "mm/dd/yyyy", CultureInfo.InvariantCulture),
-                        ContractEndDate =f.ContractEndDate,
+                        ContractEndDate = f.ContractEndDate.ToString(),
                         BestSkillType = f.BestSkillType,
                         PositionType = f.PositionType
                     })

@@ -49,7 +49,7 @@
 
                 foreach (var footballerDto in coachDto.Footballers)
                 {
-                    if (!IsValid(footballerDto) ||DateTime.Compare(
+                    if (!IsValid(footballerDto) || DateTime.Compare(
                             DateTime.ParseExact(footballerDto.ContractStartDate, "dd/mm/yyyy", CultureInfo.InvariantCulture),
                             DateTime.ParseExact(footballerDto.ContractEndDate, "dd/mm/yyyy", CultureInfo.InvariantCulture)) >= 0)
                     {

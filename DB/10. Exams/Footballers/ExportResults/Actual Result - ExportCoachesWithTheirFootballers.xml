@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-16"?>
 <Coaches>
-  <Coach>
+  <Coach FootballersCount="5">
     <CoachName>Pep Guardiola</CoachName>
     <Footballers>
       <Footballer>
@@ -24,9 +24,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>5</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="4">
     <CoachName>Mauricio Pochettino</CoachName>
     <Footballers>
       <Footballer>
@@ -46,9 +45,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>4</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="3">
     <CoachName>Antonio Conte</CoachName>
     <Footballers>
       <Footballer>
@@ -64,9 +62,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>3</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="3">
     <CoachName>Jurgen Klopp</CoachName>
     <Footballers>
       <Footballer>
@@ -82,9 +79,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>3</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="3">
     <CoachName>Peter Bosz</CoachName>
     <Footballers>
       <Footballer>
@@ -100,9 +96,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>3</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="2">
     <CoachName>Bruno Genesio</CoachName>
     <Footballers>
       <Footballer>
@@ -114,9 +109,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>2</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="2">
     <CoachName>Carlo Ancelotti</CoachName>
     <Footballers>
       <Footballer>
@@ -128,9 +122,8 @@
         <Position>Goalkeeper</Position>
       </Footballer>
     </Footballers>
-    <Count>2</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="2">
     <CoachName>Edin Terzic</CoachName>
     <Footballers>
       <Footballer>
@@ -142,9 +135,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>2</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="2">
     <CoachName>Massimiliano Allegri</CoachName>
     <Footballers>
       <Footballer>
@@ -156,9 +148,8 @@
         <Position>Goalkeeper</Position>
       </Footballer>
     </Footballers>
-    <Count>2</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Christian Streich</CoachName>
     <Footballers>
       <Footballer>
@@ -166,9 +157,8 @@
         <Position>Defender</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Diego Simeone</CoachName>
     <Footballers>
       <Footballer>
@@ -176,9 +166,8 @@
         <Position>Goalkeeper</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Eddie Howe</CoachName>
     <Footballers>
       <Footballer>
@@ -186,9 +175,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Gerald Baticle</CoachName>
     <Footballers>
       <Footballer>
@@ -196,9 +184,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Gerardo Seoane</CoachName>
     <Footballers>
       <Footballer>
@@ -206,9 +193,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Ivan Juric</CoachName>
     <Footballers>
       <Footballer>
@@ -216,9 +202,8 @@
         <Position>Defender</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Jose Luis Mendilibar</CoachName>
     <Footballers>
       <Footballer>
@@ -226,9 +211,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Jose Mourinho</CoachName>
     <Footballers>
       <Footballer>
@@ -236,9 +220,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Olivier DallOglio</CoachName>
     <Footballers>
       <Footballer>
@@ -246,9 +229,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Philippe Clement</CoachName>
     <Footballers>
       <Footballer>
@@ -256,9 +238,8 @@
         <Position>Midfielder</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Thomas Frank</CoachName>
     <Footballers>
       <Footballer>
@@ -266,9 +247,8 @@
         <Position>Forward</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
-  <Coach>
+  <Coach FootballersCount="1">
     <CoachName>Thomas Tuchel</CoachName>
     <Footballers>
       <Footballer>
@@ -276,6 +256,5 @@
         <Position>Defender</Position>
       </Footballer>
     </Footballers>
-    <Count>1</Count>
   </Coach>
 </Coaches>
