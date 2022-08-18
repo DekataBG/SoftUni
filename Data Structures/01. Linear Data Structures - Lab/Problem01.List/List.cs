@@ -7,68 +7,137 @@
     public class List<T> : IAbstractList<T>
     {
         private const int DEFAULT_CAPACITY = 4;
-        private T[] _items;
+        private T[] items;
 
         public List()
-            : this(DEFAULT_CAPACITY) {
-        }
+            : this(DEFAULT_CAPACITY) { }
 
         public List(int capacity)
         {
-            throw new NotImplementedException();
+            if (capacity <= 0)
+            {
+                throw new ArgumentOutOfRangeException(nameof(capacity));
+            }
+
+            items = new T[capacity];
         }
 
         public T this[int index]
         {
             get
             {
-                throw new NotImplementedException();
+                ValidateIndex(index);
+                return items[index];
             }
             set
             {
-                throw new NotImplementedException();
+                ValidateIndex(index);
+                items[index] = value;
             }
-        }
+        }//
 
         public int Count { get; private set; }
 
         public void Add(T item)
         {
-            throw new NotImplementedException();
+            GrowIfNecessary();
+            items[this.Count++] = item;
         }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            return IndexOf(item) != -1;
         }
-
 
         public int IndexOf(T item)
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                if (items[i].Equals(item))
+                {
+                    return i;
+                }
+            }
+
+            return -1;
         }
 
         public void Insert(int index, T item)
         {
-            throw new NotImplementedException();
+            ValidateIndex(index);
+
+            GrowIfNecessary();
+
+            for (int i = Count; i > index; i--)
+            {
+                items[i] = items[i - 1];
+            }
+            items[index] = item;
+
+            Count++;
         }
 
         public bool Remove(T item)
         {
-            throw new NotImplementedException();
+            if (Contains(item))
+            {
+                RemoveAt(IndexOf(item));
+
+                return true;
+            }
+
+            return false;
         }
 
         public void RemoveAt(int index)
         {
-            throw new NotImplementedException();
-        }
+            ValidateIndex(index);
+
+            for (int i = index; i < Count - 1; i++)
+            {
+                items[i] = items[i + 1];
+            }
+            items[Count - 1] = default;
+
+            Count--;
+        }//
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            for (int i = 0; i < Count; i++)
+            {
+                yield return items[i];
+            }
+        }//
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
+        }//
+
+        private void GrowIfNecessary()
+        {
+            if (this.Count == items.Length)
+            {
+                items = Grow();
+            }
         }
 
-        IEnumerator IEnumerable.GetEnumerator() 
-            => throw new NotImplementedException();
+        private T[] Grow()
+        {
+            var newArr = new T[2 * Count];
+
+            Array.Copy(items, newArr, items.Length);
+
+            return newArr;
+        }
+
+        private void ValidateIndex(int index)
+        {
+            if (index < 0 || index >= Count)
+            {
+                throw new IndexOutOfRangeException(nameof(index));
+            }
+        }//
     }
 }

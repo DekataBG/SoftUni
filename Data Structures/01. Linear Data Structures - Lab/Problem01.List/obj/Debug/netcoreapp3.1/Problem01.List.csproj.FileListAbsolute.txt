@@ -1,0 +1,10 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\bin\Debug\netcoreapp3.1\Problem01.List.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. Linear Data Structures - Lab\Problem01.List\obj\Debug\netcoreapp3.1\Problem01.List.pdb

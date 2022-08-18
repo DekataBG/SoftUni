@@ -3,39 +3,94 @@
     using System;
     using System.Collections;
     using System.Collections.Generic;
+    using System.ComponentModel.DataAnnotations;
 
     public class Queue<T> : IAbstractQueue<T>
     {
-        private Node<T> _head;
+        private Node<T> head;
 
         public int Count { get; private set; }
 
         public bool Contains(T item)
         {
-            throw new NotImplementedException();
+            foreach (var element in this)
+            {
+                if (element.Equals(item))
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
 
         public T Dequeue()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            var element = head.Value;
+
+            var newHead = head.Next;
+
+            head = newHead;
+
+            Count--;
+
+            return element;
         }
 
         public void Enqueue(T item)
         {
-            throw new NotImplementedException();
+            if (Count == 0)
+            {
+                head = new Node<T>(item, null);
+
+                Count++;
+
+                return;
+            }
+
+            var currentNode = head;
+
+            while (currentNode.Next != null)
+            {
+                currentNode = currentNode.Next;
+            }
+
+            currentNode.Next = new Node<T>(item, null);
+
+            Count++;
         }
 
         public T Peek()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            return head.Value;
         }
 
         public IEnumerator<T> GetEnumerator()
         {
-            throw new NotImplementedException();
+            var currentHead = head;
+
+            while (currentHead != null)
+            {
+                yield return currentHead.Value;
+                currentHead = currentHead.Next;
+            }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
-            => throw new NotImplementedException();
+        {
+            return GetEnumerator();
+        }
+
+        private void EnsureNotEmpty()
+        {
+            if (Count == 0)
+            {
+                throw new InvalidOperationException("The stack is empty.");
+            }
+        }
     }
 }
