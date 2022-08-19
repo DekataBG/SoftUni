@@ -89,7 +89,7 @@
         {
             if (Count == 0)
             {
-                throw new InvalidOperationException("The stack is empty.");
+                throw new InvalidOperationException("The queue is empty.");
             }
         }
     }
