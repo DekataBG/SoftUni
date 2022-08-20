@@ -3,6 +3,7 @@
     using System;
     using System.Collections;
     using System.Collections.Generic;
+    using System.Runtime.InteropServices;
     using System.Xml.Linq;
 
     public class ReversedList<T> : IAbstractList<T>
@@ -54,39 +55,38 @@
 
         public int IndexOf(T item)
         {
-            int index = -1;
-
             for (int i = 0; i < Count; i++)
             {
-                if (items[i].Equals(item))
+                var index = Count - 1 - i;
+
+                if (items[index].Equals(item))
                 {
-                    index = Count - 1 - i;
+                    return i;
                 }
             }
 
-            return index;
+            return -1;
         }
 
         public void Insert(int index, T item)
         {
-            GrowIfNecessary();
             ValidateIndex(index);
+            GrowIfNecessary();
+
+            index = Count - 1 - index;
 
             var newArr = new T[Count + 1];
 
-            for (int i = 0; i < index; i++)
+            for (int i = Count - 1; i > index; i--)
             {
-                newArr[i] = items[i];
+                newArr[i + 1] = items[i];
             }
 
-            newArr[index] = item;
+            newArr[index + 1] = item;
 
-            //if (index + 1 < Count)
+            for (int i = index; i >= 0; i--)
             {
-                for (int i = index; i < Count; i++)
-                {
-                    newArr[i + 1] = items[i];
-                }
+                newArr[i] = items[i];
             }
 
             items = newArr;
@@ -98,35 +98,29 @@
         {
             EnsureNotEmpty();
 
-            if (IndexOf(item) == -1)
+            if (Contains(item))
             {
-                return false;
+                RemoveAt(IndexOf(item));
+                return true;
             }
 
-            RemoveAt(IndexOf(item));
-
-            return true;
+            return false;
         }
 
         public void RemoveAt(int index)
         {
             EnsureNotEmpty();
+
+            index = Count - 1 - index;
+
             ValidateIndex(index);
 
-            var newArr = new T[Count - 1];
-
-            for (int i = 0; i < index; i++)
+            for (int i = index; i < Count; i++)
             {
-                newArr[i] = items[i];
+                items[i] = items[i + 1];
             }
 
-            for (int i = index; i < Count - 1; i++)
-            {
-                newArr[i] = items[i + 1];
-            }
-
-            items = newArr; 
-
+            items[Count - 1] = default;
             Count--;
         }
 
@@ -162,12 +156,12 @@
 
         private void EnsureNotEmpty()
         {
-            if (Count == 0) 
+            if (Count == 0)
             {
                 throw new NotImplementedException();
             }
         }
-        
+
         private void ValidateIndex(int index)
         {
             if (index < 0 || index >= Count)
