@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "01.BinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/01.BinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01.BinaryTree.dll": {}
+        }
+      },
+      "02.BinarySearchTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/02.BinarySearchTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/02.BinarySearchTree.dll": {}
+        }
+      },
+      "03.MaxHeap/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/03.MaxHeap.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/03.MaxHeap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.BinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../01.BinaryTree/01.BinaryTree.csproj",
+      "msbuildProject": "../01.BinaryTree/01.BinaryTree.csproj"
+    },
+    "02.BinarySearchTree/1.0.0": {
+      "type": "project",
+      "path": "../02.BinarySearchTree/02.BinarySearchTree.csproj",
+      "msbuildProject": "../02.BinarySearchTree/02.BinarySearchTree.csproj"
+    },
+    "03.MaxHeap/1.0.0": {
+      "type": "project",
+      "path": "../03.MaxHeap/03.MaxHeap.csproj",
+      "msbuildProject": "../03.MaxHeap/03.MaxHeap.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "01.BinaryTree >= 1.0.0",
+      "02.BinarySearchTree >= 1.0.0",
+      "03.MaxHeap >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bgsga\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\Demo\\Demo.csproj",
+      "projectName": "Demo",
+      "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\Demo\\Demo.csproj",
+      "packagesPath": "C:\\Users\\bgsga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\Demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\bgsga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\01.BinaryTree\\01.BinaryTree.csproj": {
+              "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\01.BinaryTree\\01.BinaryTree.csproj"
+            },
+            "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\02.BinarySearchTree\\02.BinarySearchTree.csproj": {
+              "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\02.BinarySearchTree\\02.BinarySearchTree.csproj"
+            },
+            "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\03.MaxHeap\\03.MaxHeap.csproj": {
+              "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\03.MaxHeap\\03.MaxHeap.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

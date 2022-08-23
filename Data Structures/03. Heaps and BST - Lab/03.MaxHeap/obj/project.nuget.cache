@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZutQNXg779KAfqA+cQ6jbStLeksV5ts714nEUWgTrNRrRVwjCnKrcJxuZV0nVQdVtve8gxkwE4UwcTkhgYB4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Lab\\03.MaxHeap\\03.MaxHeap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bgsga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bgsga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
