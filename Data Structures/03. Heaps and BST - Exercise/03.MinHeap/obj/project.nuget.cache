@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bh/EXuSJic89w8ZXsTk2ZX0acTgKKLUqQBR2GlnfjpEPrlNklnKZ5EsPIKM8qdiuJM6oLlfOYlD+LbAin4mBng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\03. Heaps and BST - Exercise\\03.MinHeap\\03.MinHeap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bgsga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bgsga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
