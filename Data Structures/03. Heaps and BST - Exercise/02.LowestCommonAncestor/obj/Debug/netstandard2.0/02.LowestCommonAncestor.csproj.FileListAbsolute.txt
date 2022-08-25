@@ -8,3 +8,13 @@
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/02.LowestCommonAncestor/obj/Debug/netstandard2.0/02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/02.LowestCommonAncestor/obj/Debug/netstandard2.0/02.LowestCommonAncestor.dll
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/02.LowestCommonAncestor/obj/Debug/netstandard2.0/02.LowestCommonAncestor.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.pdb

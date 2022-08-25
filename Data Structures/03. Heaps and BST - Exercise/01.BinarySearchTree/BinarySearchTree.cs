@@ -4,6 +4,7 @@
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using System.Xml.Linq;
 
     public class BinarySearchTree<T> : IBinarySearchTree<T> where T : IComparable
     {
@@ -52,64 +53,73 @@
             return new BinarySearchTree<T>(current);
         }
 
-        //TODO: 
         public void Delete(T element)
         {
-            if (root is null)
+            EnsureNotEmpty();
+
+            if (element == null)
             {
                 throw new InvalidOperationException();
             }
 
-            Node searchedNodeParent = TraversePreOrder(root, new List<Node>())
-                .FirstOrDefault(n => n.Left.Value.Equals(element)
-                    || n.Right.Value.Equals(element));
+            var node = this.FindElement(element);
 
-
-            if (searchedNodeParent is null)
+            if (node == null)
             {
                 throw new InvalidOperationException();
             }
 
-            Node searchedNode;
+            var nodes = new List<Node>();
 
-            if (searchedNodeParent.Left.Value.Equals(element))
+            nodes.AddRange(TraversePreOrder(node.Left, new List<Node>()));
+            nodes.AddRange(TraversePreOrder(node.Right, new List<Node>()));
+
+            var parent = TraversePreOrder(root, new List<Node>())
+                .Where(n => n.Left != null)
+                .FirstOrDefault(n => n.Left.Value.Equals(element));
+
+            if (parent == null)
             {
-                searchedNode = searchedNodeParent.Left;
+                parent = TraversePreOrder(root, new List<Node>())
+                .Where(n => n.Right != null)
+                .FirstOrDefault(n => n.Right.Value.Equals(element));
+
+                if (parent != null)
+                {
+                    parent.Right = null;
+                }
+                else
+                {
+                    root = null;
+                }
             }
             else
             {
-                searchedNode = searchedNodeParent.Right;
+                parent.Left = null;
             }
 
-
-            var nodes = TraversePreOrder(searchedNode, new List<Node>());
-
-            searchedNode = null;
-            if (searchedNodeParent.Left.Value.Equals(element))
+            foreach (var n in nodes)
             {
-                searchedNodeParent.Left = null;
+                Insert(n.Value);
             }
-            else
-            {
-                searchedNodeParent.Right = null;
-            }
-
-
-            foreach (var node in nodes.Where(n => !n.Value.Equals(element)))
-            {
-                Insert(node.Value);
-            }
-
         }
 
         public void DeleteMax()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            var maxNode = FindMax(root);
+
+            Delete(maxNode.Value);
         }
 
         public void DeleteMin()
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            var minNode = FindMin(root);
+
+            Delete(minNode.Value);
         }
 
         public int Count()
@@ -127,10 +137,7 @@
 
         public T Select(int rank)
         {
-            if (Count() == 0)
-            {
-                throw new InvalidOperationException();
-            }
+            EnsureNotEmpty();
 
             var node = TraversePreOrder(root, new List<Node>())
                 .Where(n => Rank(n.Value) == rank)
@@ -146,12 +153,16 @@
 
         public T Ceiling(T element)
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            return Select(Rank(element) + 1);
         }
 
         public T Floor(T element)
         {
-            throw new NotImplementedException();
+            EnsureNotEmpty();
+
+            return Select(Rank(element) - 1);
         }
 
         public IEnumerable<T> Range(T startRange, T endRange)
@@ -244,6 +255,38 @@
             TraversePreOrder(node.Right, result);
 
             return result;
+        }
+
+        private Node FindMax(Node givenNode)
+        {
+            var node = givenNode;
+
+            while (node.Right != null)
+            {
+                node = node.Right;
+            }
+
+            return node;
+        }
+
+        private Node FindMin(Node givenNode)
+        {
+            var node = givenNode;
+
+            while (node.Left != null)
+            {
+                node = node.Left;
+            }
+
+            return node;
+        }
+
+        private void EnsureNotEmpty()
+        {
+            if (Count() == 0)
+            {
+                throw new InvalidOperationException();
+            }
         }
     }
 }
