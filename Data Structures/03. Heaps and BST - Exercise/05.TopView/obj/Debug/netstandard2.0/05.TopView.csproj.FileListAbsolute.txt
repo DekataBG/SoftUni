@@ -8,3 +8,13 @@
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.csproj.CoreCompileInputs.cache
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.dll
 /Users/ssheytanov/Documents/Svn/DS/Feb-2022/1.DS-Fundamentals/07.Heaps-BST-Exercise/07.Heaps-BST-Exercise-Exercises-Solution/05.TopView/obj/Debug/netstandard2.0/05.TopView.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\bin\Debug\netstandard2.0\05.TopView.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\03. Heaps and BST - Exercise\05.TopView\obj\Debug\netstandard2.0\05.TopView.pdb

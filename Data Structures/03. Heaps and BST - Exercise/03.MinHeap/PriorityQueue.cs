@@ -7,22 +7,29 @@ namespace _03.MinHeap
     {
         public PriorityQueue()
         {
-            this.elements = new List<T>();
+            elements = new List<T>();
         }
 
         public void Enqueue(T element)
         {
-            throw new NotImplementedException();
+            Add(element);
         }
 
         public T Dequeue()
         {
-            throw new NotImplementedException();
+            return ExtractMin();
         }
 
         public void DecreaseKey(T key)
         {
-            throw new NotImplementedException();
+            var index = elements.IndexOf(key);
+
+            //HeapifyDown(index);
+
+            //var element = elements[index];
+
+            elements.RemoveAt(index);
+            Add(key);
         }
     }
 }
