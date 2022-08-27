@@ -35,6 +35,11 @@
 
         public T FindLowestCommonAncestor(T first, T second)
         {
+            if (first.Equals(second))
+            {
+                return first;
+            }
+
             var nodes = BfsTraverse(this);
 
             var firstNode = nodes

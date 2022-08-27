@@ -17,6 +17,8 @@ namespace _03.MinHeap
 
         public int Count => elements.Count;
 
+        public int Size => Count;
+
         public void Add(T element)
         {
             if (Count == 0)
