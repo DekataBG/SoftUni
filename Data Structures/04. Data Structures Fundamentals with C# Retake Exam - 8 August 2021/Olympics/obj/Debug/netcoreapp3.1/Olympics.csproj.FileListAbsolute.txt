@@ -1,0 +1,14 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.exe
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\bin\Debug\netcoreapp3.1\Olympics.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics\obj\Debug\netcoreapp3.1\Olympics.genruntimeconfig.cache

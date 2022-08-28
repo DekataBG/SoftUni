@@ -1,0 +1,77 @@
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Work\DataStructures\Exam\Skeletons\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Test\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\User\Desktop\Clear\Skeletons-C#\Olympics\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.runtimeconfig.dev.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.csproj.CopyComplete
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021\Olympics.Tests\obj\Debug\netcoreapp2.1\Olympics.Tests.genruntimeconfig.cache
