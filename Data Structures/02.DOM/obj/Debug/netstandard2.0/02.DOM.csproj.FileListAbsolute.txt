@@ -1,0 +1,10 @@
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\bin\Debug\netstandard2.0\02.DOM.deps.json
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\bin\Debug\netstandard2.0\02.DOM.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\bin\Debug\netstandard2.0\02.DOM.pdb
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.AssemblyReference.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfoInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.AssemblyInfo.cs
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.csproj.CoreCompileInputs.cache
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.dll
+C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\02.DOM\obj\Debug\netstandard2.0\02.DOM.pdb
