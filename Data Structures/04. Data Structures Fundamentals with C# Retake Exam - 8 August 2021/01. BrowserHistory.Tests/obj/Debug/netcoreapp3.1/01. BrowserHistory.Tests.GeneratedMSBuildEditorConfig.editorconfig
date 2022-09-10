@@ -1,3 +1,9 @@
+<<<<<<< HEAD:Data Structures/04. Data Structures Fundamentals with C# Retake Exam - 8 August 2021/01. BrowserHistory.Tests/obj/Debug/netcoreapp3.1/01. BrowserHistory.Tests.GeneratedMSBuildEditorConfig.editorconfig
 is_global = true
 build_property.RootNamespace = _01._BrowserHistory.Tests
 build_property.ProjectDir = C:\Users\bgsga\OneDrive\Работен плот\Dekata\Programming\SoftUni\Data Structures\01. BrowserHistory.Tests\
+=======
+is_global = true
+build_property.RootNamespace = _01._BrowserHistory.Tests
+build_property.ProjectDir = C:\SoftUni\Data Structures\01. BrowserHistory.Tests\
+>>>>>>> 8542983a986721b8f45e28e2e66502f9bf0e4ccf:Data Structures/01. BrowserHistory.Tests/obj/Debug/netcoreapp3.1/01. BrowserHistory.Tests.GeneratedMSBuildEditorConfig.editorconfig

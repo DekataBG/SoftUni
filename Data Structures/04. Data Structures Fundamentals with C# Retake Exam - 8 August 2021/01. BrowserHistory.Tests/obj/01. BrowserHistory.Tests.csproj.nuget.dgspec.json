@@ -1,39 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj": {}
+    "C:\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj": {
+    "C:\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj",
+        "projectUniqueName": "C:\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj",
         "projectName": "01. BrowserHistory.Tests",
-        "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj",
-        "packagesPath": "C:\\Users\\bgsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\obj\\",
+        "projectPath": "C:\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\01. BrowserHistory.Tests.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\Data Structures\\01. BrowserHistory.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bgsga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\DELL\\Downloads": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj": {
-                "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj"
+              "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj": {
+                "projectPath": "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj"
               }
             }
           }
@@ -67,8 +70,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -77,32 +79,35 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj": {
+    "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj",
+        "projectUniqueName": "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj",
         "projectName": "01. BrowserHistory",
-        "projectPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj",
-        "packagesPath": "C:\\Users\\bgsga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\01. BrowserHistory\\obj\\",
+        "projectPath": "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\01. BrowserHistory.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "C:\\SoftUni\\Data Structures\\01. BrowserHistory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\bgsga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\DELL\\Downloads": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
@@ -134,12 +139,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

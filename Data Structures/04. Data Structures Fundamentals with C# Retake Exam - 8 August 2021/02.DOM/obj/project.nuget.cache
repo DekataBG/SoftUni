@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5XBgJ9tt4XWq4Hm1uzkXVD1ji9a2FHiApeD56v2mE4ASgWARYhK8NOz3U72l0BPOxKxAzFJDcvryFvgJ5yukTQ==",
+  "dgSpecHash": "0/CPw4c2Z3lni31B8YOniGqTUjm/fd7YzYmPjMPwGegkTfgAHFvhGA73+GizQSDgpxBJBTTDIu2EEIzEae55rA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bgsga\\OneDrive\\Работен плот\\Dekata\\Programming\\SoftUni\\Data Structures\\02.DOM\\02.DOM.csproj",
+  "projectFilePath": "C:\\SoftUni\\Data Structures\\02.DOM\\02.DOM.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bgsga\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\bgsga\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
