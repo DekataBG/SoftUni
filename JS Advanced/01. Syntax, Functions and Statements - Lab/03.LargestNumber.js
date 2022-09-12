@@ -14,4 +14,3 @@ function findLargestNumber(num1, num2, num3){
     console.log(`The largest number is ${result}.`);
 }
 
-findLargestNumber(1,3,3);
