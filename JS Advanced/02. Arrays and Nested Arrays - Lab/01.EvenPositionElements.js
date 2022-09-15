@@ -3,7 +3,7 @@ function getEvenElements(array){
 
     for(let i = 0; i < array.length; i++){
         if(i % 2 == 0){
-            newArray[i / 2] = array[i];
+            newArray.push(array[i]);
         }
     }
 

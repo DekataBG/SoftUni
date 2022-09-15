@@ -1,5 +1,5 @@
 function makeSmallerArray(array){
-    array.sort(function(a, b){return a - b});
+    array.sort((a, b)=> a - b);
 
     array.splice(0, Math.floor(array.length / 2));
 
