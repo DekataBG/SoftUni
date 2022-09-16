@@ -25,28 +25,28 @@ function makeSpiralArray(width, height){
 
 
     function fillFirstRow(start){
-        for(let i = start; i < width - 2 * start; i++){
+        for(let i = start; i < width - start; i++){
             matrix[start][i] = current;
             current++;
         }
     }
 
     function fillRightColumn(start){
-        for(let i = start + 1; i < height - 2 * start; i++){
-            matrix[i][width - 2 * start - 1] = current;
+        for(let i = start + 1; i < height - start; i++){
+            matrix[i][width - start - 1] = current;
             current++;
         }
     }
 
     function fillLastRow(start){
-        for(let i = width - 2 * start - 2; i >= start; i--){
-            matrix[height - 2 * start - 1][i] = current;
+        for(let i = width - start - 2; i >= start; i--){
+            matrix[height - start - 1][i] = current;
             current++;
         }
     }
 
     function fillLeftColumn(start){
-        for(let i = height - 2 * start - 2; i > start; i--){
+        for(let i = height - start - 2; i > start; i--){
             matrix[i][start] = current;
             current++;
         }
