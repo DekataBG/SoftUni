@@ -20,15 +20,14 @@ function modifyCar(car){
     newCar.model = car.model;
     newCar.engine  = engine;
     newCar.carriage = carriage;
-    newCar.wheels = [wheel, wheel, wheel, wheel];
-
+    newCar.wheels = Array(4).fill(wheel); 
     return newCar;
 }
 
-modifyCar({
+console.log(modifyCar({
     model: 'VW Golf II',
     power: 90,
     color: 'blue',
     carriage: 'hatchback',
     wheelsize: 14
-});
+}));

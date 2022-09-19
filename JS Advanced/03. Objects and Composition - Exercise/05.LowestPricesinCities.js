@@ -5,7 +5,7 @@ function findTownsWithLowestPrice(array){
         let [town, product, price] = info.split(' | ');
         price = Number(price);
 
-        if(typeof products[product] == 'undefined'){
+        if(!products[product]){
             products[product] = {town, price};
         }else{
             if(price < products[product].price){
