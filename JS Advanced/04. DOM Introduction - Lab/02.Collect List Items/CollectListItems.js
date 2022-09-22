@@ -1,12 +1,12 @@
 function extractText() {
-    let list = document.getElementById('items');
+    let element = document.getElementById('items');
 
-    let text = '';
+    let list = Array.from(element.children);
+    list = list.map(e => e.textContent);
 
-    for(let i = 0; i < list.children.length; i++){
-        text += list.children[i].textContent +  '\n'
-    }
+    let text = list.join('\n');
 
-    let result = document.getElementById('result');
-    result.textContent = text.trimEnd();
+    document.getElementById('result').textContent = text;
 }
+
+extractText();
