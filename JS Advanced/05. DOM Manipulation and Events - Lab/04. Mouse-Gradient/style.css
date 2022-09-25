@@ -5,7 +5,7 @@ body {
 }
 
 #gradient-box {
-    width: 300px;
+    width: 1600px;
     border: 2px solid lightgrey;
 }
 
@@ -14,11 +14,16 @@ body {
 }
 
 #gradient {
-    height: 30px;
+    height: 160px;
     color: white;
     text-shadow: 1px 1px 10px black;
     text-align: center;
     line-height: 30px;
     background: linear-gradient(to right, black, white);
     cursor: crosshair;
+    font-size: 30px;
+}
+
+#result {
+    font-size: 30px;
 }
