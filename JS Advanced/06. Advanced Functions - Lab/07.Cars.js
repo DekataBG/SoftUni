@@ -1,17 +1,27 @@
 function createCars(commands) {
     let list = {};
-    let pairs = [];
 
     let processor = {
         create: (name, keyword, otherName) => {
-            list[name] = {};
-
-            if(keyword) {
-                pairs.push([name, otherName]);
-            }
+            list[name] = {parent: list[otherName]};
         }, 
-        set: (name, property, value) => list[name][property] = value, 
-        print: (name) => console.log(list[name])
+        set: (name, property, value) => {
+            list[name][property] = value;   
+        },
+        print: (name) => {
+            let currentCar = list[name];
+            let properties = [];
+
+            while(currentCar) {
+                Array.from(Object.keys(currentCar))
+                    .filter(k => k != "parent")
+                    .forEach(k => properties.push(`${k}:${currentCar[k]}`));
+
+                currentCar = currentCar.parent;
+            }
+
+            console.log(properties.join(','));
+        }
     };
 
     commands = commands
@@ -25,4 +35,5 @@ createCars(['create c1',
 'set c1 color red',
 'set c2 model new',
 'print c1',
-'print c2']);
+'print c2']
+);
